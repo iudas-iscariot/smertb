@@ -1,0 +1,324 @@
+body{
+	background-color: #000;
+	padding: 0;
+	margin: 0;
+}
+
+.fnaoi{
+	width: 100%;
+	height: 100vh;
+	background-color: #000;
+		animation-duration: 3s;
+	animation-name: arrow__down;
+	animation-iteration-count: infinite;
+}
+
+
+
+@keyframes arrow__down{
+
+	0%{
+		background-color: #fff;
+  	}
+	1%{
+		background-color: #FF0000;
+	}
+	2%{
+		background-color: #24FF00;
+	}
+	3%{
+		background-color: #CDFF00;	
+	}
+	4%{
+		background-color: #000;
+  	}
+	5%{
+		background-color: #FF00DA;
+	}
+	6%{
+		background-color: #00FFFA;
+	}
+	7%{
+		background-color: #FF4900;
+	}
+	8%{
+		background-color: #5900FF;
+	}
+	9%{
+		background-color: #00FFAD;
+	}
+	10%{
+		background-color: #fff;
+  	}
+	11%{
+		background-color: #FF0000;
+	}
+	12%{
+		background-color: #24FF00;
+	}
+	13%{
+		background-color: #CDFF00;
+	}
+	14%{
+		background-color: #000;
+  	}
+	15%{
+		background-color: #FF00DA;
+	}
+	16%{
+		background-color: #00FFFA;
+	}
+	17%{
+		background-color: #FF4900;
+	}
+	18%{
+		background-color: #5900FF;
+	}
+	19%{
+		background-color: #00FFAD;
+	}
+	20%{
+		background-color: #fff;
+	}
+	21%{
+		background-color: #FF0000;
+	}
+	22%{
+		background-color: #24FF00;
+	}
+	23%{
+		background-color: #CDFF00;
+	}
+	24%{
+		background-color: #000;
+  	}
+	25%{
+		background-color: #FF00DA;
+	}
+	26%{
+		background-color: #00FFFA;
+	}
+	27%{
+		background-color: #FF4900;
+	}
+	28%{
+		background-color: #5900FF;
+	}
+	29%{
+		background-color: #00FFAD;
+	}
+	30%{
+		background-color: #fff;
+	}
+	31%{
+		background-color: #FF0000;
+	}
+	32%{
+		background-color: #24FF00;
+	}
+	33%{
+		background-color: #CDFF00;
+	}
+	34%{
+		background-color: #000;
+  	}
+	35%{
+		background-color: #FF00DA;
+	}
+	36%{
+		background-color: #00FFFA;
+	}
+	37%{
+		background-color: #FF4900;
+	}
+	38%{
+		background-color: #5900FF;
+	}
+	39%{
+		background-color: #00FFAD;
+	}
+	40%{
+		background-color: #fff;
+	}
+	41%{
+		background-color: #FF0000;
+	}
+	42%{
+		background-color: #24FF00;
+	}
+	43%{
+		background-color: #CDFF00;
+	}
+	44%{
+		background-color: #000;
+  	}
+	45%{
+		background-color: #FF00DA;
+	}
+	46%{
+		background-color: #00FFFA;
+	}
+	47%{
+		background-color: #FF4900;
+	}
+	48%{
+		background-color: #5900FF;
+	}
+	49%{
+		background-color: #00FFAD;
+	}
+	50%{
+		background-color: #fff;
+	}
+	51%{
+		background-color: #FF0000;
+	}
+	52%{
+		background-color: #24FF00;
+	}
+	53%{
+		background-color: #CDFF00;
+	}
+	54%{
+		background-color: #000;
+  	}
+	55%{
+		background-color: #FF00DA;
+	}
+	56%{
+		background-color: #00FFFA;
+	}
+	57%{
+		background-color: #FF4900;
+	}
+	58%{
+		background-color: #5900FF;
+	}
+	59%{
+		background-color: #00FFAD;
+	}
+	60%{
+		background-color: #fff;
+	}
+	61%{
+		background-color: #FF0000;
+	}
+	62%{
+		background-color: #24FF00;
+	}
+	63%{
+		background-color: #CDFF00;
+	}
+	64%{
+		background-color: #000;
+  	}
+	65%{
+		background-color: #FF00DA;
+	}
+	66%{
+		background-color: #00FFFA;
+	}
+	67%{
+		background-color: #FF4900;
+	}
+	68%{
+		background-color: #5900FF;
+	}
+	69%{
+		background-color: #00FFAD;
+	}
+	70%{
+		background-color: #fff;
+	}
+	71%{
+		background-color: #FF0000;
+	}
+	72%{
+		background-color: #24FF00;
+	}
+	73%{
+		background-color: #CDFF00;
+	}
+	74%{
+		background-color: #000;
+  	}
+	75%{
+		background-color: #FF00DA;
+	}
+	76%{
+		background-color: #00FFFA;
+	}
+	77%{
+		background-color: #FF4900;
+	}
+	78%{
+		background-color: #5900FF;
+	}
+	79%{
+		background-color: #00FFAD;
+	}
+	80%{
+		background-color: #fff;
+	}
+	81%{
+		background-color: #FF0000;
+	}
+	82%{
+		background-color: #24FF00;
+	}
+	83%{
+		background-color: #CDFF00;
+	}
+	84%{
+		background-color: #000;
+  	}
+	85%{
+		background-color: #FF00DA;
+	}
+	86%{
+		background-color: #00FFFA;
+	}
+	87%{
+		background-color: #FF4900;
+	}
+	88%{
+		background-color: #5900FF;
+	}
+	89%{
+		background-color: #00FFAD;
+	}
+	90%{
+		background-color: #fff;
+	}
+	91%{
+		background-color: #FF0000;	
+	}
+	92%{
+		background-color: #24FF00;
+	}
+	93%{
+		background-color: #CDFF00;
+	}
+	94%{
+		background-color: #000;
+  	}
+	95%{
+		background-color: #FF00DA;
+	}
+	96%{
+		background-color: #00FFFA;
+	}
+	97%{
+		background-color: #FF4900;
+	}
+	98%{
+		background-color: #5900FF;
+	}
+	99%{
+		background-color: #00FFAD;
+	}
+	100%{
+		background-color: #fff;	
+	}
+	
+}
